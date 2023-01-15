@@ -1,0 +1,12 @@
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\bin\Debug\futbola_viktorina.exe.config
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\bin\Debug\futbola_viktorina.exe
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\bin\Debug\futbola_viktorina.pdb
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.csproj.AssemblyReference.cache
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.Form1.resources
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.Form2.resources
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.Form3.resources
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.Properties.Resources.resources
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.csproj.GenerateResource.cache
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.csproj.CoreCompileInputs.cache
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.exe
+C:\Users\Gundega\Desktop\viktorina\futbola_viktorina\obj\Debug\futbola_viktorina.pdb
