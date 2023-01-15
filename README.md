@@ -1,5 +1,4 @@
 # viktorina
 
-Šeit uzglabāšu savu darbu
-
-1. Pepsi
+Esmu izstrādājis projekta aprakstu, projektējuma aprakstu, programmatūru.
+Šeit to visu var aplūkot
